@@ -1,0 +1,11 @@
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.exe
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.deps.json
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.runtimeconfig.json
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.runtimeconfig.dev.json
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.dll
+E:\projektek\filestore\fStore-client\bin\Debug\netcoreapp3.1\fStore-client.pdb
+E:\projektek\filestore\fStore-client\obj\Debug\netcoreapp3.1\fStore-client.AssemblyInfoInputs.cache
+E:\projektek\filestore\fStore-client\obj\Debug\netcoreapp3.1\fStore-client.AssemblyInfo.cs
+E:\projektek\filestore\fStore-client\obj\Debug\netcoreapp3.1\fStore-client.dll
+E:\projektek\filestore\fStore-client\obj\Debug\netcoreapp3.1\fStore-client.pdb
+E:\projektek\filestore\fStore-client\obj\Debug\netcoreapp3.1\fStore-client.csprojAssemblyReference.cache
